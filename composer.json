@@ -1,0 +1,16 @@
+{
+    "name": "siccob/test-meeting",
+    "description": "test to interview",
+    "autoload": {
+        "psr-4": {
+            "Siccob\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fredy palma",
+            "email": "fpalma@siccob.com.mx"
+        }
+    ],
+    "require": {}
+}
